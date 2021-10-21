@@ -1,0 +1,18 @@
+.mit {
+  background-image: url('../images/nice_view.jpg');
+  background-size: cover;
+  background-position: center; 
+  color: #fff;
+  padding-bottom: 50rem;
+}
+.mit-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7;
+}
+.mit-heading {
+  margin-bottom: .3rem;
+}
+.mit-description {
+  opacity: .8;
+  font-weight: 300;
+}
